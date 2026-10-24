@@ -1,0 +1,62 @@
+body{
+magin: 0;
+height: 100vh;
+background-image: url('bd.jpg');
+background-size: cover;
+background-position: center;
+text-align: center;
+}
+h1{
+color: gold;
+font-size: 50px;
+}
+p{
+color: pink;
+font-size: 30px;
+}
+h2{
+color: lightblue;
+font-size: 30px;
+}
+.party-info{
+background-color: black;
+padding: 10px;
+margin: 5px auto;
+width: 30%;
+border: 1px solid purple;
+border-radius: 5px
+}
+li{
+font-size: 50px;
+color: pink;
+}
+form{
+background-color: lightblue;
+}
+label{
+color: black;
+}
+input, select{
+width: 20%;
+padding: 10px;
+margin-top: 6px;
+border: 1px solid #D4AF37;
+border-radius: 5px;
+box-sizing: border-box;
+}
+button{
+background-color: pink;
+color: darkblue;
+}
+nav a{
+color: white;
+text-decoration: none;
+margin: 20px;
+font-size: 18px;
+}
+
+
+
+
+
+
